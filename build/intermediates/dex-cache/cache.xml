@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2370f49a97383f65807d209f684a2d0bcb4ac175">
+        <dex dex="C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_bafbe4b2a8d99afe8820e036d129fdd190b4dcf8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_4f1860b67b3f32bdc7853143959b6124012a73b4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fd29760d3c01e63d60dcbc95679c2f9236118fc5">
+        <dex dex="C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e4a2fbe3c38d3f6e6295e81e7deed402b1046162\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_4e653e9c43d2b3d2432665818a0c2474b4121077\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_1142485007d0fd5ff93645fd9ef9735efb78c0ce\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_6c000146cf770e828df3d3adf0cc502455d6d7c9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_6e86d46f6a3c6d7c058b251f213a8dd8438c8b4d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Kesego\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_5d94e57bca01a9d8ec8fd53667cb36ee8157cacd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_064a4b0115d3894cf6b94e545f844598cd3f9da7\classes.dex" />
+    </item>
+
+</items>
