@@ -1,68 +1,88 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\src\main\AndroidManifest.xml:23:1-41:12
+ADDED from /Users/kesegotumisang/AndroidStudioProjects/AllTherages-Starter/app/src/main/AndroidManifest.xml:23:1-41:12
+INJECTED from /Users/kesegotumisang/AndroidStudioProjects/AllTherages-Starter/app/src/main/AndroidManifest.xml:23:1-41:12
+INJECTED from /Users/kesegotumisang/AndroidStudioProjects/AllTherages-Starter/app/src/main/AndroidManifest.xml:23:1-41:12
+INJECTED from /Users/kesegotumisang/AndroidStudioProjects/AllTherages-Starter/app/src/main/AndroidManifest.xml:23:1-41:12
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/kesegotumisang/.gradle/caches/transforms-2/files-2.1/2cb259e214badf4777bfd12d06f46bd4/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:recyclerview-v7:23.4.0] /Users/kesegotumisang/.gradle/caches/transforms-2/files-2.1/c5b576becd509099aaf454a05486bea0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/kesegotumisang/.gradle/caches/transforms-2/files-2.1/feed512554eca5789ee95233b7e6400d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/kesegotumisang/.gradle/caches/transforms-2/files-2.1/31a62c44caf733e70031f8a3d7619603/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v4:23.4.0] /Users/kesegotumisang/.gradle/caches/transforms-2/files-2.1/c3971d82b23791c167d1b5cddd1d7d64/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/kesegotumisang/AndroidStudioProjects/AllTherages-Starter/app/src/main/AndroidManifest.xml:23:1-41:12
+INJECTED from /Users/kesegotumisang/AndroidStudioProjects/AllTherages-Starter/app/src/main/AndroidManifest.xml:23:1-41:12
+INJECTED from /Users/kesegotumisang/AndroidStudioProjects/AllTherages-Starter/app/src/main/AndroidManifest.xml:23:1-41:12
 	package
-		ADDED from C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\src\main\AndroidManifest.xml:23:11-50
-		INJECTED from C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\src\main\AndroidManifest.xml
+		ADDED from /Users/kesegotumisang/AndroidStudioProjects/AllTherages-Starter/app/src/main/AndroidManifest.xml:23:11-50
+		INJECTED from /Users/kesegotumisang/AndroidStudioProjects/AllTherages-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kesegotumisang/AndroidStudioProjects/AllTherages-Starter/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\src\main\AndroidManifest.xml
-	xmlns:android
-		ADDED from C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\src\main\AndroidManifest.xml:24:11-69
+		INJECTED from /Users/kesegotumisang/AndroidStudioProjects/AllTherages-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kesegotumisang/AndroidStudioProjects/AllTherages-Starter/app/src/main/AndroidManifest.xml:23:1-41:12
+		INJECTED from /Users/kesegotumisang/AndroidStudioProjects/AllTherages-Starter/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/kesegotumisang/AndroidStudioProjects/AllTherages-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kesegotumisang/AndroidStudioProjects/AllTherages-Starter/app/src/main/AndroidManifest.xml:23:1-41:12
+		INJECTED from /Users/kesegotumisang/AndroidStudioProjects/AllTherages-Starter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kesegotumisang/AndroidStudioProjects/AllTherages-Starter/app/src/main/AndroidManifest.xml:24:11-69
 application
-ADDED from C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\src\main\AndroidManifest.xml:26:3-39:17
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+ADDED from /Users/kesegotumisang/AndroidStudioProjects/AllTherages-Starter/app/src/main/AndroidManifest.xml:26:3-39:17
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/kesegotumisang/.gradle/caches/transforms-2/files-2.1/2cb259e214badf4777bfd12d06f46bd4/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/kesegotumisang/.gradle/caches/transforms-2/files-2.1/2cb259e214badf4777bfd12d06f46bd4/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/kesegotumisang/.gradle/caches/transforms-2/files-2.1/feed512554eca5789ee95233b7e6400d/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/kesegotumisang/.gradle/caches/transforms-2/files-2.1/feed512554eca5789ee95233b7e6400d/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/kesegotumisang/.gradle/caches/transforms-2/files-2.1/31a62c44caf733e70031f8a3d7619603/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/kesegotumisang/.gradle/caches/transforms-2/files-2.1/31a62c44caf733e70031f8a3d7619603/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/kesegotumisang/.gradle/caches/transforms-2/files-2.1/c3971d82b23791c167d1b5cddd1d7d64/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/kesegotumisang/.gradle/caches/transforms-2/files-2.1/c3971d82b23791c167d1b5cddd1d7d64/AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\src\main\AndroidManifest.xml:29:7-39
-	android:allowBackup
-		ADDED from C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\src\main\AndroidManifest.xml:27:7-33
+		ADDED from /Users/kesegotumisang/AndroidStudioProjects/AllTherages-Starter/app/src/main/AndroidManifest.xml:29:7-39
 	android:icon
-		ADDED from C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\src\main\AndroidManifest.xml:28:7-41
+		ADDED from /Users/kesegotumisang/AndroidStudioProjects/AllTherages-Starter/app/src/main/AndroidManifest.xml:28:7-41
+	android:allowBackup
+		ADDED from /Users/kesegotumisang/AndroidStudioProjects/AllTherages-Starter/app/src/main/AndroidManifest.xml:27:7-33
 	android:theme
-		ADDED from C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\src\main\AndroidManifest.xml:30:7-38
+		ADDED from /Users/kesegotumisang/AndroidStudioProjects/AllTherages-Starter/app/src/main/AndroidManifest.xml:30:7-38
 activity#com.raywenderlich.alltherages.MainActivity
-ADDED from C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\src\main\AndroidManifest.xml:31:5-38:16
+ADDED from /Users/kesegotumisang/AndroidStudioProjects/AllTherages-Starter/app/src/main/AndroidManifest.xml:31:5-38:16
 	android:label
-		ADDED from C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\src\main\AndroidManifest.xml:33:9-41
+		ADDED from /Users/kesegotumisang/AndroidStudioProjects/AllTherages-Starter/app/src/main/AndroidManifest.xml:33:9-41
 	android:name
-		ADDED from C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\src\main\AndroidManifest.xml:32:9-37
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\src\main\AndroidManifest.xml:34:7-37:23
+		ADDED from /Users/kesegotumisang/AndroidStudioProjects/AllTherages-Starter/app/src/main/AndroidManifest.xml:32:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/kesegotumisang/AndroidStudioProjects/AllTherages-Starter/app/src/main/AndroidManifest.xml:34:7-37:23
 action#android.intent.action.MAIN
-ADDED from C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\src\main\AndroidManifest.xml:35:9-60
+ADDED from /Users/kesegotumisang/AndroidStudioProjects/AllTherages-Starter/app/src/main/AndroidManifest.xml:35:9-60
 	android:name
-		ADDED from C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\src\main\AndroidManifest.xml:35:17-58
+		ADDED from /Users/kesegotumisang/AndroidStudioProjects/AllTherages-Starter/app/src/main/AndroidManifest.xml:35:17-58
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\src\main\AndroidManifest.xml:36:9-68
+ADDED from /Users/kesegotumisang/AndroidStudioProjects/AllTherages-Starter/app/src/main/AndroidManifest.xml:36:9-68
 	android:name
-		ADDED from C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\src\main\AndroidManifest.xml:36:19-66
+		ADDED from /Users/kesegotumisang/AndroidStudioProjects/AllTherages-Starter/app/src/main/AndroidManifest.xml:36:19-66
 uses-sdk
-INJECTED from C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+INJECTED from /Users/kesegotumisang/AndroidStudioProjects/AllTherages-Starter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kesegotumisang/AndroidStudioProjects/AllTherages-Starter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kesegotumisang/AndroidStudioProjects/AllTherages-Starter/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/kesegotumisang/.gradle/caches/transforms-2/files-2.1/2cb259e214badf4777bfd12d06f46bd4/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/kesegotumisang/.gradle/caches/transforms-2/files-2.1/2cb259e214badf4777bfd12d06f46bd4/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:23.4.0] /Users/kesegotumisang/.gradle/caches/transforms-2/files-2.1/c5b576becd509099aaf454a05486bea0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] /Users/kesegotumisang/.gradle/caches/transforms-2/files-2.1/c5b576becd509099aaf454a05486bea0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/kesegotumisang/.gradle/caches/transforms-2/files-2.1/feed512554eca5789ee95233b7e6400d/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/kesegotumisang/.gradle/caches/transforms-2/files-2.1/feed512554eca5789ee95233b7e6400d/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/kesegotumisang/.gradle/caches/transforms-2/files-2.1/31a62c44caf733e70031f8a3d7619603/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/kesegotumisang/.gradle/caches/transforms-2/files-2.1/31a62c44caf733e70031f8a3d7619603/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/kesegotumisang/.gradle/caches/transforms-2/files-2.1/c3971d82b23791c167d1b5cddd1d7d64/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/kesegotumisang/.gradle/caches/transforms-2/files-2.1/c3971d82b23791c167d1b5cddd1d7d64/AndroidManifest.xml:20:5-43
+INJECTED from /Users/kesegotumisang/AndroidStudioProjects/AllTherages-Starter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kesegotumisang/AndroidStudioProjects/AllTherages-Starter/app/src/main/AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:23.4.0] /Users/kesegotumisang/.gradle/caches/transforms-2/files-2.1/2cb259e214badf4777bfd12d06f46bd4/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/kesegotumisang/AndroidStudioProjects/AllTherages-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kesegotumisang/AndroidStudioProjects/AllTherages-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kesegotumisang/AndroidStudioProjects/AllTherages-Starter/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Kesego\Downloads\AllTheRages-Starter\AllTheRages-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/kesegotumisang/AndroidStudioProjects/AllTherages-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kesegotumisang/AndroidStudioProjects/AllTherages-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kesegotumisang/AndroidStudioProjects/AllTherages-Starter/app/src/main/AndroidManifest.xml
